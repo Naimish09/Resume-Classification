@@ -127,8 +127,8 @@ def main():
     elif choice == "About":
         st.header("About") 
         st.subheader("This is a Resume Classification by Group 2")
-        st.info("Akhand chitransh")
         st.info("Naimish Wankhade")
+        st.info("Akhand Chitransh")
         st.info("Rushikesh Nere")
         st.info("Divyanshu Sharma")
         st.info("Pooja Patil")
